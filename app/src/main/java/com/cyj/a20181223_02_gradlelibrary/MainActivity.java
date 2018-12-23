@@ -3,6 +3,8 @@ package com.cyj.a20181223_02_gradlelibrary;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.bumptech.glide.Glide;
+
 public class MainActivity extends BaseActivity {
 
     @Override
@@ -22,7 +24,6 @@ public class MainActivity extends BaseActivity {
 
     @Override
     public void setValues() {
-
     }
 
     @Override
